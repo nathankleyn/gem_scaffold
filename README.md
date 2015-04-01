@@ -1,6 +1,6 @@
 # Gem Scaffold
 
-This repository aims to be an opinionated scaffold from which you can base Rubygems. This has been done a thousand times before, and there are even commands built into things like Bundler to do this, but I still find I have to spend way too much time pulling out all the junk that gets added that I don't want - this project aims to fix that for at least me.
+This repository aims to be an opinionated scaffold from which you can base Rubygems. This has been done a thousand times before, and there are even [commands built into things like Bundler to do this](http://bundler.io/rubygems.html), but I still find I have to spend way too much time pulling out all the junk that gets added that I don't want - this project aims to fix that for at least me.
 
 ## Using The Scaffold
 

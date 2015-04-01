@@ -4,8 +4,8 @@ Gem::Specification.new do |gem|
   gem.homepage = 'https://github.com/username/your_wonderful_gem'
   gem.license = 'MIT'
 
-  spec.author = 'Your Name'
-  spec.email = 'name@somedomain.com'
+  gem.author = 'Your Name'
+  gem.email = 'name@somedomain.com'
   gem.summary = 'A short summary here.'
   gem.description = "See #{gem.homepage} for more information!"
 

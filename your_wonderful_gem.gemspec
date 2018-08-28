@@ -22,10 +22,10 @@ Gem::Specification.new do |gem|
   #   gem.add_development_dependency 'whatever', '~> 1.0'
   #
   # Some sane defaults follow.
-  gem.add_development_dependency 'coveralls', '~> 0.8.2'
-  gem.add_development_dependency 'filewatcher', '~> 0.5.2'
-  gem.add_development_dependency 'pry-byebug', '~> 3.2'
-  gem.add_development_dependency 'rspec', '~> 3.3'
-  gem.add_development_dependency 'rubocop', '~> 0.34.1'
-  gem.add_development_dependency 'rubocop-rspec', '~> 1.3.1'
+  gem.add_development_dependency 'coveralls', '~> 0.8.22'
+  gem.add_development_dependency 'filewatcher', '~> 1.0.1'
+  gem.add_development_dependency 'pry-byebug', '~> 3.6.0'
+  gem.add_development_dependency 'rspec', '~> 3.8.0'
+  gem.add_development_dependency 'rubocop', '~> 0.58.2'
+  gem.add_development_dependency 'rubocop-rspec', '~> 1.29.0'
 end
